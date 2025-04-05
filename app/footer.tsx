@@ -73,7 +73,7 @@ export function Footer() {
         <a href="https://github.com/ibelick/nim" target="_blank">
           <TextLoop className="text-xs text-zinc-500">
             <span>© {new Date().getFullYear()} Sahibjot Saggu.</span>
-            <span>Built with Motion-Primitives.</span>
+            <span>Built with ❤️</span>
           </TextLoop>
         </a>
         <div className="text-xs text-zinc-400">
