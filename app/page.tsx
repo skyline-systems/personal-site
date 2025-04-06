@@ -136,11 +136,7 @@ export default function Personal() {
         transition={TRANSITION_SECTION}
       >
         <div className="flex-1">
-          {/* <p className="text-zinc-600 dark:text-zinc-400">
-            Focused on creating intuitive and performant web experiences.
-            Bridging the gap between design and development.
-          </p> */}
-          <p className="text-zinc-600 dark:text-zinc-400">
+          <p className="text-lg tracking-tighter text-zinc-600 dark:text-zinc-400">
             Frontend engineer dedicated to building high-quality, user-focused
             web experiences. I combine design sensitivity with strong
             development practices to create interfaces that are both visually
@@ -169,7 +165,7 @@ export default function Personal() {
                   {project.name}
                   <span className="absolute bottom-0.5 left-0 block h-[1px] w-full max-w-0 bg-zinc-900 transition-all duration-200 group-hover:max-w-full"></span>
                 </a>
-                <p className="text-base text-zinc-600 dark:text-zinc-400">
+                <p className="text-base text-lg tracking-tighter text-zinc-600 dark:text-zinc-400">
                   {project.description}
                 </p>
               </div>
@@ -257,7 +253,7 @@ export default function Personal() {
         transition={TRANSITION_SECTION}
       >
         <h3 className="mb-5 text-lg font-medium">Connect</h3>
-        <p className="mb-5 text-zinc-600 dark:text-zinc-400">
+        <p className="mb-5 text-lg tracking-tighter text-zinc-600 dark:text-zinc-400">
           Feel free to contact me at{' '}
           <a className="underline dark:text-zinc-300" href={`mailto:${EMAIL}`}>
             {EMAIL}

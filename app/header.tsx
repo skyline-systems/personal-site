@@ -23,10 +23,10 @@ export function Header() {
             as="p"
             preset="fade"
             per="char"
-            className="text-zinc-600 dark:text-zinc-500"
+            className="text-base tracking-tighter text-zinc-600 dark:text-zinc-500"
             delay={0.5}
           >
-            Product-focused Software Engineer
+            Product-focused frontend engineer
           </TextEffect>
         </div>
       </div>
