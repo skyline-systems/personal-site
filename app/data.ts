@@ -48,12 +48,20 @@ export const PROJECTS: Project[] = [
 
 export const WORK_EXPERIENCE: WorkExperience[] = [
   {
+    company: 'StackAdapt',
+    title: 'Software Engineer',
+    start: '2025',
+    end: 'Present',
+    link: 'https://www.stackadapt.com',
+    id: 'work1',
+  },
+  {
     company: 'Cloudflare',
     title: 'Systems Engineer',
     start: '2021',
-    end: 'Present',
+    end: '2025',
     link: 'https://www.cloudflare.com',
-    id: 'work1',
+    id: 'work2',
   },
   {
     company: 'StackAdapt',
@@ -61,7 +69,7 @@ export const WORK_EXPERIENCE: WorkExperience[] = [
     start: '2021',
     end: '2021',
     link: 'https://stackadapt.com',
-    id: 'work2',
+    id: 'work3',
   },
   {
     company: 'Skyline Systems',
@@ -69,7 +77,7 @@ export const WORK_EXPERIENCE: WorkExperience[] = [
     start: '2017',
     end: 'Present',
     link: 'https://skylinesystems.io',
-    id: 'work3',
+    id: 'work4',
   },
 ]
 
