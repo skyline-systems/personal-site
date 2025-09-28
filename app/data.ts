@@ -110,10 +110,6 @@ export const SOCIAL_LINKS: SocialLink[] = [
     link: 'https://github.com/sahibjotsaggu',
   },
   {
-    label: 'Peerlist',
-    link: 'https://peerlist.io/sahibjot',
-  },
-  {
     label: 'LinkedIn',
     link: 'https://www.linkedin.com/in/sahibjotsaggu',
   },
