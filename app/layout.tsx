@@ -13,7 +13,7 @@ export const viewport: Viewport = {
 
 export const metadata: Metadata = {
   title: 'Sahibjot Saggu',
-  description: `Sahibjot Saggu is a frontend engineer dedicated to building high-quality, user-focused web experiences. He combines design sensitivity with strong development practices to create interfaces that are both visually engaging and easy to use.`,
+  description: `Sahibjot Saggu is a software engineer dedicated to building high-quality, user-focused web experiences. He combines design sensitivity with strong development practices to create interfaces that are both visually engaging and easy to use.`,
 }
 
 const inter = Inter({

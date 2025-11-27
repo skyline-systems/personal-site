@@ -137,7 +137,7 @@ export default function Personal() {
       >
         <div className="flex-1">
           <p className="text-lg tracking-tighter text-zinc-600 dark:text-zinc-400">
-            Frontend engineer dedicated to building high-quality, user-focused
+            Software engineer dedicated to building high-quality, user-focused
             web experiences. I combine design sensitivity with strong
             development practices to create interfaces that are both visually
             engaging and easy to use.
